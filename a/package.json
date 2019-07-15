@@ -1,0 +1,13 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^7",
+    "typescript": "^2"
+  },
+  "scripts": {
+    "version": "ts-node --version"
+  }
+}
